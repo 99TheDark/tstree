@@ -1,5 +1,5 @@
 {
-  "name": "tstree",
+  "name": "@99thedark/tstree",
   "version": "1.0.0",
   "description": "The tree data structure implemented in TypeScript",
   "main": "index.js",
