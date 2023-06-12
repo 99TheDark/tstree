@@ -1,5 +1,5 @@
 {
-  "name": "ls",
+  "name": "tstree",
   "version": "1.0.0",
   "description": "The tree data structure implemented in TypeScript",
   "main": "index.js",
@@ -8,12 +8,20 @@
     "build": "tsc"
   },
   "keywords": [],
-  "author": "",
+  "author": "99TheDark",
   "license": "ISC",
   "devDependencies": {
     "typescript": "^5.1.3"
   },
   "directories": {
     "lib": "lib"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/99TheDark/tstree.git"
+  },
+  "bugs": {
+    "url": "https://github.com/99TheDark/tstree/issues"
+  },
+  "homepage": "https://github.com/99TheDark/tstree#readme"
 }
